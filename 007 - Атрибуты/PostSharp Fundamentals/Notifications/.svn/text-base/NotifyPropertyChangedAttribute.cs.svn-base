@@ -1,0 +1,151 @@
+using System;
+using System.ComponentModel;
+using System.Reflection;
+using PostSharp.Extensibility;
+using PostSharp.Laos;
+
+namespace Notifications
+{
+  [MulticastAttributeUsage(MulticastTargets.Class | MulticastTargets.Struct)]
+  [Serializable]
+  internal sealed class NotifyPropertyChangedAttribute : CompoundAspect
+  {
+    [NonSerialized]
+    private int aspectPriority = 1;
+
+    public int AspectPriority
+    {
+      get { return aspectPriority; }
+      set { aspectPriority = value; }
+    }
+
+    public override void ProvideAspects(object targetElement, LaosReflectionAspectCollection collection)
+    {
+      Type targetType = (Type)targetElement;
+      collection.AddAspect(targetType, new AddNotifyPropertyChangedInterfaceSubAspect());
+
+      foreach (PropertyInfo property in targetType.UnderlyingSystemType.GetProperties())
+      { // We are comparing type names, not actual types
+        if (property.DeclaringType.FullName == targetType.FullName && property.CanWrite)
+        {
+          MethodInfo method = property.GetSetMethod();
+          if (!method.IsStatic)
+          {
+            collection.AddAspect(method, new OnPropertySetSubAspect(property.Name, this));
+          }
+        }
+      }
+    }
+
+    #region Nested type: AddNotifyPropertyChangedInterfaceSubAspect
+
+    [Serializable]
+    internal class AddNotifyPropertyChangedInterfaceSubAspect : CompositionAspect
+    {
+      public override object CreateImplementationObject(InstanceBoundLaosEventArgs eventArgs)
+      {
+        return new NotifyPropertyChangedImplementation(eventArgs.Instance);
+      }
+
+      public override Type GetPublicInterface(Type containerType)
+      {
+        return typeof(INotifyPropertyChanged);
+      }
+
+      public override Type[] GetProtectedInterfaces(Type containerType)
+      {
+        return new[] { typeof(IFirePropertyChanged) };
+      }
+
+      
+      public override CompositionAspectOptions GetOptions()
+      {
+        return
+          CompositionAspectOptions.GenerateImplementationAccessor |
+          CompositionAspectOptions.IgnoreIfAlreadyImplemented;
+      }
+    }
+
+    #endregion
+
+    #region Nested type: IFirePropertyChanged
+
+    internal interface IFirePropertyChanged
+    {
+      void OnPropertyChanged(string propertyName);
+    }
+
+    #endregion
+
+    #region Nested type: NotifyPropertyChangedImplementation
+
+    
+    internal class NotifyPropertyChangedImplementation : INotifyPropertyChanged, IFirePropertyChanged
+    {
+      // Instance that exposes the current implementation.
+      private readonly object instance;
+
+      
+      public NotifyPropertyChangedImplementation(object instance)
+      {
+        this.instance = instance;
+      }
+
+      #region IFirePropertyChanged Members
+
+     
+      public void OnPropertyChanged(string propertyName)
+      {
+        if (string.IsNullOrEmpty(propertyName))
+          return;
+
+        var pceh = PropertyChanged;
+        if (pceh != null)
+          pceh(instance, new PropertyChangedEventArgs(propertyName));
+      }
+
+      #endregion
+
+      #region INotifyPropertyChanged Members
+
+      
+      public event PropertyChangedEventHandler PropertyChanged;
+
+      #endregion
+    }
+
+    #endregion
+
+    #region Nested type: OnPropertySetSubAspect
+
+    
+    [Serializable]
+    internal class OnPropertySetSubAspect : OnMethodBoundaryAspect
+    {
+      private readonly string propertyName;
+
+      
+      public OnPropertySetSubAspect(string propertyName, NotifyPropertyChangedAttribute parent)
+      {
+        AspectPriority = parent.AspectPriority;
+        this.propertyName = propertyName;
+      }
+
+     
+      public override void OnSuccess(MethodExecutionEventArgs eventArgs)
+      {
+        // Get the implementation of INotifyPropertyChanged. We have access to it through the IComposed interface,
+        // which is implemented at compile time.
+        NotifyPropertyChangedImplementation implementation =
+          (NotifyPropertyChangedImplementation)
+          ((IComposed<INotifyPropertyChanged>)eventArgs.Instance).GetImplementation(
+            eventArgs.InstanceCredentials);
+
+        // Raises the PropertyChanged event.
+        implementation.OnPropertyChanged(propertyName);
+      }
+    }
+
+    #endregion
+  }
+}

@@ -1,0 +1,86 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Reflection;
+using System.Threading;
+using PostSharp.Laos;
+
+namespace Performance
+{
+  [Serializable]
+  public class PerformanceCounterAttribute : OnMethodInvocationAspect
+  {
+    private static readonly Dictionary<string, PerformanceCounterAttribute>
+      attributes = new Dictionary<string, PerformanceCounterAttribute>();
+
+    private long elapsedTicks;
+    private long hits;
+
+    [NonSerialized]
+    private MethodBase method;
+
+    public MethodBase Method { get { return method; } }
+
+    public double ElapsedMilliseconds
+    {
+      get { return elapsedTicks / (Stopwatch.Frequency / 1000d); }
+    }
+
+    public long Hits { get { return hits; } }
+
+    public static IDictionary<string, PerformanceCounterAttribute> Attributes
+    {
+      get
+      {
+        return attributes;
+      }
+    }
+
+    public override void OnInvocation(MethodInvocationEventArgs eventArgs)
+    {
+      Stopwatch stopwatch = Stopwatch.StartNew();
+
+      try
+      {
+        eventArgs.Proceed();
+      }
+      finally
+      {
+        stopwatch.Stop();
+        Interlocked.Add(ref elapsedTicks, stopwatch.ElapsedTicks);
+        Interlocked.Increment(ref hits);
+      }
+    }
+
+    public override void RuntimeInitialize(MethodBase method)
+    {
+      base.RuntimeInitialize(method);
+      this.method = method;
+      attributes.Add(method.Name, this);
+    }
+  }
+
+
+  class Program
+  {
+    [PerformanceCounter]
+    static void LongRunningMethod()
+    {
+      Thread.Sleep(1000);
+    }
+
+    static void Main(string[] args)
+    {
+      LongRunningMethod();
+
+      PerformanceCounterAttribute pc = PerformanceCounterAttribute.Attributes["LongRunningMethod"];
+      Console.WriteLine("Function was called " + pc.Hits + " time(s) and took " + pc.ElapsedMilliseconds + " msec.");
+
+      LongRunningMethod();
+      Console.WriteLine("Function was called " + pc.Hits + " time(s) and took " + pc.ElapsedMilliseconds + " msec.");
+
+      Console.ReadKey();
+    }
+  }
+}
+

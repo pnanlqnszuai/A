@@ -1,0 +1,20 @@
+r:\PostSharpSamples\Threading\bin\Debug\Threading.exe
+r:\PostSharpSamples\Threading\bin\Debug\Threading.pdb
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Core.dll
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Laos.dll
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Public.dll
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Laos.xml
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Public.xml
+r:\PostSharpSamples\Threading\bin\Debug\PostSharp.Core.xml
+r:\PostSharpSamples\Threading\obj\Debug\ResolveAssemblyReference.cache
+r:\PostSharpSamples\Threading\obj\Debug\Threading.exe
+r:\PostSharpSamples\Threading\obj\Debug\Threading.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\bin\Debug\Threading.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\bin\Debug\Threading.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\obj\Debug\Threading.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\obj\Debug\Threading.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\bin\Debug\Threading.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Threading\obj\Debug\Threading.exe.postsharp

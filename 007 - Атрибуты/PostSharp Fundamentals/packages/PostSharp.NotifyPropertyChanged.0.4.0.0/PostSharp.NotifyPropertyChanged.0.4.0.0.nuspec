@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PostSharp.NotifyPropertyChanged</id>
+    <version>0.4.0.0</version>
+    <title>PostSharp.NotifyPropertyChanged</title>
+    <authors>Robert Ream</authors>
+    <owners>Robert Ream</owners>
+    <projectUrl>https://github.com/robertream/PostSharp.NotifyPropertyChanged</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PostSharp Auto-Magic INotifyPropertyChanged done right</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>PostSharp ILWeaving INotifyPropertyChanged DataBinding MVVM WPF Silverlight WP7 WindowsPhone</tags>
+    <dependencies>
+      <dependency id="PostSharp" version="2.1" />
+    </dependencies>
+  </metadata>
+</package>

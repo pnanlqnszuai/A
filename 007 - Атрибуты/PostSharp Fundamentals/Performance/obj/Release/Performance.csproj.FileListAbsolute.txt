@@ -1,0 +1,9 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\Performance.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\Performance.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\obj\Release\Performance.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Performance\obj\Release\Performance.pdb

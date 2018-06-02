@@ -1,0 +1,94 @@
+﻿using System;
+using Microsoft.SqlServer.MessageBox;
+using PostSharp.Laos;
+using System.Windows.Forms;
+
+namespace Exceptions
+{
+  [Serializable]
+  public class ExceptionDialogAttribute : OnExceptionAspect
+  {
+    private readonly Type exceptionType;
+
+    public ExceptionDialogAttribute()
+    {
+      exceptionType = typeof (Exception);
+    }
+
+    public ExceptionDialogAttribute(Type exceptionType)
+    {
+      this.exceptionType = exceptionType;
+    }
+
+    public override Type GetExceptionType(System.Reflection.MethodBase method)
+    {
+      return exceptionType;
+    }
+
+    public override void OnException(MethodExecutionEventArgs eventArgs)
+    {
+      ExceptionMessageBox emb = new ExceptionMessageBox(
+        eventArgs.Exception,
+        ExceptionMessageBoxButtons.OK,
+        ExceptionMessageBoxSymbol.Error);
+
+      emb.Show(eventArgs.Instance as Form);
+      eventArgs.FlowBehavior = FlowBehavior.Continue;
+    }
+  }
+
+  [Serializable]
+  public class IgnoreExceptionAttribute : OnExceptionAspect
+  {
+    private Type type;
+
+    public IgnoreExceptionAttribute(Type type)
+    {
+      this.type = type;
+    }
+
+    public override Type GetExceptionType(System.Reflection.MethodBase method)
+    {
+      return type;
+    }
+
+    public override void OnException(MethodExecutionEventArgs eventArgs)
+    {
+      eventArgs.FlowBehavior = FlowBehavior.Continue;
+    }
+  }
+
+  class Program
+  {
+    [ExceptionDialog]
+    void DoSomethingDangerous()
+    {
+      Exception a = new Exception("Inner exception");
+      Exception b = new Exception("Outer exception", a);
+      throw b;
+    }
+
+    //Ignore TimeoutException, report ArgumentException
+    [IgnoreException(typeof(TimeoutException))]
+    [ExceptionDialog(typeof(ArgumentException))]
+    void DoSomethingDiverse(bool flag)
+    {
+      if (flag)
+      {
+        throw new TimeoutException();
+      }
+      else
+      {
+        throw new ArgumentException();
+      }
+    }
+
+    static void Main()
+    {
+      Program p = new Program();
+      p.DoSomethingDangerous(); // shows message box
+      p.DoSomethingDiverse(true); // ignores
+      p.DoSomethingDiverse(false); // shows
+    }
+  }
+}

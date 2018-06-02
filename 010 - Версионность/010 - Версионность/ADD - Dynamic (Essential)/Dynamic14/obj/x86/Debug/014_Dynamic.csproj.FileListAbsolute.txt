@@ -1,0 +1,27 @@
+D:\Dynamic\Dynamic14\bin\Debug\Dynamic14.exe
+D:\Dynamic\Dynamic14\bin\Debug\Dynamic14.pdb
+D:\Dynamic\Dynamic14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic14\bin\Debug\Dynamic14.exe
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic14\bin\Debug\Dynamic14.pdb
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic14\bin\Debug\Dynamic14.exe
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic14\bin\Debug\Dynamic14.pdb
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.exe
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.exe
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic14\obj\x86\Debug\Dynamic14.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic14\bin\Debug\Dynamic14.exe
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic14\bin\Debug\Dynamic14.pdb

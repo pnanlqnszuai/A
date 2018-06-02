@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionTask", "AdditionTask\AdditionTask.csproj", "{78BAEA06-D82C-42F9-AB4C-273BD388CCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{09CA4D42-349E-4E79-B539-F0B9DEB5025F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78BAEA06-D82C-42F9-AB4C-273BD388CCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BAEA06-D82C-42F9-AB4C-273BD388CCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BAEA06-D82C-42F9-AB4C-273BD388CCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BAEA06-D82C-42F9-AB4C-273BD388CCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CA4D42-349E-4E79-B539-F0B9DEB5025F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA4D42-349E-4E79-B539-F0B9DEB5025F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA4D42-349E-4E79-B539-F0B9DEB5025F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA4D42-349E-4E79-B539-F0B9DEB5025F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\Tracing.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\Tracing.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Core.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\bin\Release\PostSharp.Core.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\obj\Release\Tracing.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Tracing\obj\Release\Tracing.pdb

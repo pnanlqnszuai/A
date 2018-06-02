@@ -1,0 +1,61 @@
+﻿using System;
+using PostSharp.Laos;
+using System.Diagnostics;
+
+namespace LazyLoading
+{
+  [Serializable]
+  class LazyLoad : OnFieldAccessAspect
+  {
+    private readonly Type type;
+    private readonly object[] args;
+    public LazyLoad(Type type, params object[] arguments)
+    {
+      this.type = type;
+      args = arguments;
+    }
+    public override OnFieldAccessAspectOptions GetOptions()
+    {
+      return OnFieldAccessAspectOptions.RemoveFieldStorage;
+    }
+    public override void OnGetValue(FieldAccessEventArgs eventArgs)
+    {
+      if (eventArgs.StoredFieldValue == null)
+        eventArgs.StoredFieldValue = Activator.CreateInstance(type, args);
+      eventArgs.ExposedFieldValue = eventArgs.StoredFieldValue;
+    }
+  }
+
+  class A
+  {
+    public A() {
+      Console.WriteLine("A()"); 
+    }
+  }
+
+  class B
+  {
+    public B() {
+      Console.WriteLine("B()");
+    }
+
+    [LazyLoad(typeof(A))]
+    private A a;
+
+    public A GetA()
+    {
+      Console.WriteLine("GetA()");
+      return a;
+    }
+  }
+
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      B b = new B();
+      A a = b.GetA();
+      Debug.Assert(a != null);
+    }
+  }
+}

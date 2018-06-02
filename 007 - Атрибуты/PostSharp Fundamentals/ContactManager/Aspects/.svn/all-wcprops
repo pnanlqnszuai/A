@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects
+END
+NotifyPropertyChangedAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/NotifyPropertyChangedAttribute.cs
+END
+IFirePropertyChanged.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/IFirePropertyChanged.cs
+END
+GuiThreadAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/GuiThreadAttribute.cs
+END
+ExceptionDialogAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/ExceptionDialogAttribute.cs
+END
+Formatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/Formatter.cs
+END
+TagableAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/TagableAttribute.cs
+END
+TraceExecutionTimeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/TraceExecutionTimeAttribute.cs
+END
+WorkerThreadAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/WorkerThreadAttribute.cs
+END
+WaitCursorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/WaitCursorAttribute.cs
+END
+CacheAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Aspects/CacheAttribute.cs
+END

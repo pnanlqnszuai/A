@@ -1,0 +1,27 @@
+D:\Dynamic\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\Dynamic\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\Dynamic\Dynamic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Namespaces\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\hDocuments\C# Courses\C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\hDocuments\C# Courses\[C#]\001 - C# Essential\019_Linq\003_Dynamic\Dynamic\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.pdb
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.exe
+C:\Cources\C# Professional\011 - Версионность\011 - Версионность\003 - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.pdb
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.exe
+C:\Cources\C# Professional\010 - Версионность\010 - Версионность\ADD - Dynamic (Essential)\Dynamic\obj\x86\Debug\Dynamic.pdb

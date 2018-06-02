@@ -1,0 +1,9 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\bin\Debug\SelfPlacingWindow.exe.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\obj\x86\Debug\SelfPlacingWindow.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\obj\x86\Debug\SelfPlacingWindow.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\bin\Debug\App.config
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\bin\Debug\SelfPlacingWindow.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\bin\Debug\SelfPlacingWindow.pdb
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\obj\x86\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\obj\x86\Debug\SelfPlacingWindow.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 005\Task_3\obj\x86\Debug\Task_3.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 007\Reflector\obj\Debug\WindowsApplication1.exe
+C:\Users\Oleksii\Desktop\CBS Courses\C# Professional\Home Work\Lesson 007\Reflector\obj\Debug\WindowsApplication1.pdb

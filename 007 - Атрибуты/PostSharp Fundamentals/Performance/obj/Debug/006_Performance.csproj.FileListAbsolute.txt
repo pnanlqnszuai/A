@@ -1,0 +1,18 @@
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\obj\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\obj\Debug\Performance.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\Performance.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\Performance.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\obj\Debug\Performance.exe.postsharp
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\obj\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\obj\Debug\Performance.pdb
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\Performance.exe.config
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\Performance.pdb
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\bin\Debug\Performance.pssym
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\obj\Debug\Performance.exe.postsharp
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Performance\obj\Debug\006_Performance.csprojResolveAssemblyReference.cache

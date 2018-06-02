@@ -1,0 +1,9 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\LazyLoading.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\LazyLoading.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\obj\Release\LazyLoading.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\LazyLoading\obj\Release\LazyLoading.pdb

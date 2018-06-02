@@ -1,0 +1,21 @@
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\obj\Debug\Notifications.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\obj\Debug\Notifications.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\Notifications.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\Notifications.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\PostSharp.NotifyPropertyChanged.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\bin\Debug\Notifications.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\obj\Debug\007_Notifications.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Notifications\obj\Debug\Notifications.exe.postsharp
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\obj\Debug\Notifications.exe
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\obj\Debug\Notifications.pdb
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\Notifications.exe.config
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\Notifications.exe
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\Notifications.pdb
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\PostSharp.NotifyPropertyChanged.dll
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\bin\Debug\Notifications.pssym
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\obj\Debug\007_Notifications.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\PostSharp Fundamentals\Notifications\obj\Debug\Notifications.exe.postsharp
