@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\bin\Debug\10_HashTable.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\bin\Debug\10_HashTable.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\bin\Debug\10_HashTable.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\obj\Debug\10_HashTable.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\obj\Debug\10_HashTable.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\10_HashTable\obj\Debug\10_HashTable.pdb

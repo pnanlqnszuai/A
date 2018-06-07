@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <FirstName>Anakin</FirstName>
+    <LastName>Skywalker</LastName>
+    <Age>48</Age>
+    <Phone>+380221112233</Phone>
+    <Comment>I am your father</Comment>
+  </Contact>
+  <Contact>
+    <FirstName>Luke</FirstName>
+    <LastName>Skywalker</LastName>
+    <Age>21</Age>
+    <Phone>+380112233444</Phone>
+    <Comment>No-nooooo!!!</Comment>
+  </Contact>
+  <Contact>
+    <FirstName>Obi-Wan</FirstName>
+    <LastName>Kenobi</LastName>
+    <Age>62</Age>
+    <Phone>+380221231212</Phone>
+    <Comment>Use the Force</Comment>
+  </Contact>
+  <Contact>
+    <FirstName>Yoda</FirstName>
+    <Age>920</Age>
+    <Phone>+380455558855</Phone>
+    <Comment>Powerful you have become, the dark side I sense in you</Comment>
+  </Contact>
+</ArrayOfContact>

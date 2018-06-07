@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\bin\Debug\04_Yield.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\bin\Debug\04_Yield.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\bin\Debug\04_Yield.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\obj\Debug\04_Yield.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\obj\Debug\04_Yield.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\04_Yield\obj\Debug\04_Yield.pdb

@@ -1,0 +1,20 @@
+r:\PostSharpSamples\Exceptions\bin\Debug\Exceptions.exe
+r:\PostSharpSamples\Exceptions\bin\Debug\Exceptions.pdb
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Core.dll
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Laos.dll
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Public.dll
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Laos.xml
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Public.xml
+r:\PostSharpSamples\Exceptions\bin\Debug\PostSharp.Core.xml
+r:\PostSharpSamples\Exceptions\obj\Debug\ResolveAssemblyReference.cache
+r:\PostSharpSamples\Exceptions\obj\Debug\Exceptions.exe
+r:\PostSharpSamples\Exceptions\obj\Debug\Exceptions.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\bin\Debug\Exceptions.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\bin\Debug\Exceptions.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\obj\Debug\Exceptions.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\obj\Debug\Exceptions.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\bin\Debug\Exceptions.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Exceptions\obj\Debug\Exceptions.exe.postsharp

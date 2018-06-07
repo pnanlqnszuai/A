@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\37_FinalizatorCall\bin\Debug\37_FinalizatorCall.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\37_FinalizatorCall\bin\Debug\37_FinalizatorCall.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\37_FinalizatorCall\bin\Debug\37_FinalizatorCall.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\37_FinalizatorCall\obj\Debug\37_FinalizatorCall.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\37_FinalizatorCall\obj\Debug\37_FinalizatorCall.pdb

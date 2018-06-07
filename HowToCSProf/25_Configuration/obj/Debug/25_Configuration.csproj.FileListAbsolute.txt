@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\bin\Debug\25_Configuration.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\bin\Debug\25_Configuration.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\bin\Debug\25_Configuration.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\obj\Debug\25_Configuration.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\obj\Debug\25_Configuration.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\25_Configuration\obj\Debug\25_Configuration.pdb

@@ -1,0 +1,9 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\Notifications.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\Notifications.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\obj\Release\Notifications.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Notifications\obj\Release\Notifications.pdb

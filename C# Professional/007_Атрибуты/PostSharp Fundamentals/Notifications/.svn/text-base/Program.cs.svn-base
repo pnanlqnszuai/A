@@ -1,0 +1,26 @@
+﻿using System.ComponentModel;
+using System;
+
+namespace Notifications
+{
+  [NotifyPropertyChanged]
+  class Person
+  {
+    public string Name { get; set; }
+    public int Age { get; set; }
+  }
+
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Person p = new Person();
+      var npc = (INotifyPropertyChanged)p; // cast
+      npc.PropertyChanged += (sender, e) => Console.WriteLine(e.PropertyName + " changed");
+      p.Name = "Dmitri";
+      p.Age = 25;
+
+      Console.ReadKey();
+    }
+  }
+}

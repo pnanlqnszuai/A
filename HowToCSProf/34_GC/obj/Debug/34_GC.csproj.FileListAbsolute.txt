@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\34_GC\bin\Debug\34_GC.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\34_GC\bin\Debug\34_GC.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\34_GC\bin\Debug\34_GC.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\34_GC\obj\Debug\34_GC.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\34_GC\obj\Debug\34_GC.pdb

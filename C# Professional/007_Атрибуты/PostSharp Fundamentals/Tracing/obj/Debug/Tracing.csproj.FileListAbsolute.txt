@@ -1,0 +1,20 @@
+r:\PostSharpSamples\Tracing\bin\Debug\Tracing.exe
+r:\PostSharpSamples\Tracing\bin\Debug\Tracing.pdb
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Core.dll
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Laos.dll
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Public.dll
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Laos.xml
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Public.xml
+r:\PostSharpSamples\Tracing\bin\Debug\PostSharp.Core.xml
+r:\PostSharpSamples\Tracing\obj\Debug\ResolveAssemblyReference.cache
+r:\PostSharpSamples\Tracing\obj\Debug\Tracing.exe
+r:\PostSharpSamples\Tracing\obj\Debug\Tracing.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\bin\Debug\Tracing.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\bin\Debug\Tracing.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\obj\Debug\Tracing.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\obj\Debug\Tracing.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\obj\Debug\Tracing.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\bin\Debug\Tracing.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Tracing\obj\Debug\Tracing.exe.postsharp

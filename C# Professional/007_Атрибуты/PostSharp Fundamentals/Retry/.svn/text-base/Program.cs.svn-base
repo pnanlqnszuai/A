@@ -1,0 +1,66 @@
+﻿using System;
+using System.Threading;
+using PostSharp.Laos;
+
+namespace Retry
+{
+  [Serializable]
+  public class RetryAttribute : OnMethodInvocationAspect
+  {
+    public int Count { get; set; }
+    public int DelayMsec { get; set; }
+
+    public RetryAttribute(int count) : this(count, 0) { }
+
+    public RetryAttribute(int count, int delayMsec)
+    {
+      Count = count;
+      DelayMsec = delayMsec;
+    }
+
+    public override void OnInvocation(MethodInvocationEventArgs eventArgs)
+    {
+      for (int a = 0; ; ++a)
+      {
+        try
+        {
+          if (a != 0 && DelayMsec > 0)
+            Thread.Sleep(DelayMsec);
+          eventArgs.Proceed();
+          Console.WriteLine("Succeeded on try " + a);
+          return;
+        }
+        catch
+        {
+          Console.WriteLine("Failed on try " + a);
+          if (a == Count) throw;
+        }
+      }
+    }
+  }
+
+  class Program
+  {
+    public static Random rand = new Random();
+
+    [Retry(3, 2000)]
+    public static void ICanFail()
+    {
+      if (rand.Next(2) == 0)
+        throw new Exception("I just failed.");
+    }
+
+    static void Main(string[] args)
+    {
+      for (int i = 0; i < 20; ++i)
+        try
+        {
+          ICanFail();
+        }
+        catch
+        {
+          Console.WriteLine("=== COMPLETELY FAILED ===");
+        }
+    }
+  }
+}

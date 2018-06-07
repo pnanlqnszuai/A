@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\30_BinarySerializer\bin\Debug\30_BinarySerializer.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\30_BinarySerializer\bin\Debug\30_BinarySerializer.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\30_BinarySerializer\bin\Debug\30_BinarySerializer.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\30_BinarySerializer\obj\Debug\30_BinarySerializer.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\30_BinarySerializer\obj\Debug\30_BinarySerializer.pdb

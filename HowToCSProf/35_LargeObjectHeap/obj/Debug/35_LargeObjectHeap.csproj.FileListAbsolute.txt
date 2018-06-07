@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\bin\Debug\35_LargeObjectHeap.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\bin\Debug\35_LargeObjectHeap.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\bin\Debug\35_LargeObjectHeap.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\obj\Debug\35_LargeObjectHeap.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\obj\Debug\35_LargeObjectHeap.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\35_LargeObjectHeap\obj\Debug\35_LargeObjectHeap.pdb

@@ -1,0 +1,36 @@
+﻿using System;
+using PostSharp.Laos;
+namespace Tracing
+{
+  [Serializable]
+  class TraceAttribute : OnMethodBoundaryAspect
+  {
+    public override void OnEntry(MethodExecutionEventArgs eventArgs)
+    {
+      Console.WriteLine("Entering " + eventArgs.Method);
+    }
+    public override void OnExit(MethodExecutionEventArgs eventArgs)
+    {
+      Console.WriteLine("Exiting " + eventArgs.Method);
+    }
+  }
+
+  class Subject
+  {
+    [Trace]
+    public void DoSomething()
+    {
+      Console.WriteLine("DoSomething()");
+    }
+  }
+
+  class Program
+  {
+    static void Main()
+    {
+      new Subject().DoSomething();
+
+      Console.ReadKey();
+    }
+  }
+}

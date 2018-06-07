@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using PostSharp.Laos;
+
+namespace Threading
+{
+  [Serializable]
+  public class WorkerThreadAttribute : OnMethodInvocationAspect
+  {
+    public override void OnInvocation(MethodInvocationEventArgs eventArgs)
+    {
+      ThreadPool.QueueUserWorkItem(state => eventArgs.Proceed());
+    }
+  }
+
+  class Program
+  {
+    [WorkerThread]
+    void PrintDot()
+    {
+      int i = 300;
+      while (i-- > 0)
+        Console.Write(".");
+    }
+
+    [WorkerThread]
+    void PrintDash()
+    {
+      int i = 300;
+      while (i --> 0)
+        Console.Write("-");
+    }
+
+    [WorkerThread]
+    void PrintPlus()
+    {
+      int i = 300;
+      while (i-- > 0)
+        Console.Write("+");
+    }
+
+    static void Main(string[] args)
+    {
+      Program p = new Program();
+      p.PrintDot();
+      p.PrintDash();
+      p.PrintPlus();
+      Console.ReadKey();
+    }
+  }
+}

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\bin\Debug\22_Encoding.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\bin\Debug\22_Encoding.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\bin\Debug\22_Encoding.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\obj\Debug\22_Encoding.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\obj\Debug\22_Encoding.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\22_Encoding\obj\Debug\22_Encoding.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\bin\Debug\02_Iterator.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\bin\Debug\02_Iterator.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\bin\Debug\02_Iterator.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\obj\Debug\02_Iterator.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\obj\Debug\02_Iterator.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\02_Iterator\obj\Debug\02_Iterator.csprojResolveAssemblyReference.cache

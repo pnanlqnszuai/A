@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\bin\Debug\29_XMLSerialization.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\bin\Debug\29_XMLSerialization.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\bin\Debug\29_XMLSerialization.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\obj\Debug\29_XMLSerialization.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\obj\Debug\29_XMLSerialization.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\29_XMLSerialization\obj\Debug\29_XMLSerialization.pdb

@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\28_Attributes\bin\Debug\28_Attributes.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\28_Attributes\bin\Debug\28_Attributes.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\28_Attributes\bin\Debug\28_Attributes.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\28_Attributes\obj\Debug\28_Attributes.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\28_Attributes\obj\Debug\28_Attributes.pdb

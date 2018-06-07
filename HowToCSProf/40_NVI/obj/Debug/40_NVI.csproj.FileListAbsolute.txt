@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Debug\40_NVI.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Debug\40_NVI.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Debug\40_NVI.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\obj\Debug\40_NVI.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\obj\Debug\40_NVI.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\Exceptions.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\Exceptions.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Core.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\bin\Release\PostSharp.Core.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\obj\Release\Exceptions.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Exceptions\obj\Release\Exceptions.pdb

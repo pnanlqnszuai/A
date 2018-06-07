@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\bin\Debug\24_XML.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\bin\Debug\books.xml
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\bin\Debug\24_XML.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\bin\Debug\24_XML.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\obj\Debug\24_XML.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\24_XML\obj\Debug\24_XML.pdb

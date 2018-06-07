@@ -1,0 +1,8 @@
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\Performance.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.Laos.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.Public.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.Laos.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\bin\Debug\PostSharp.Public.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\obj\Debug\Performance.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Performance\obj\Debug\Performance.pdb

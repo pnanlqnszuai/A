@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{19008BC8-E3A8-4287-AB6E-509367266C58}"
+	ProjectSection(SolutionItems) = preProject
+		Common\Microsoft.ExceptionMessageBox.dll = Common\Microsoft.ExceptionMessageBox.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tracing", "Tracing\001_Tracing.csproj", "{02090AAB-8877-4D5A-B5C7-BA4D35642738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Exceptions", "Exceptions\002_Exceptions.csproj", "{D6187D07-D28B-435E-864C-554C1DA4ED49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Threading", "Threading\003_Threading.csproj", "{3981218F-67B5-4B82-BABA-FFCCA4955865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Retry", "Retry\004_Retry.csproj", "{F301DF09-4D6E-4D10-91F1-FFE39A17AD52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_LazyLoading", "LazyLoading\005_LazyLoading.csproj", "{1C702CD4-D180-4D4B-988F-2AD9A840A270}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3EAEE1D3-706D-4F93-8F24-025EA4F2172B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02090AAB-8877-4D5A-B5C7-BA4D35642738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02090AAB-8877-4D5A-B5C7-BA4D35642738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02090AAB-8877-4D5A-B5C7-BA4D35642738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02090AAB-8877-4D5A-B5C7-BA4D35642738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6187D07-D28B-435E-864C-554C1DA4ED49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6187D07-D28B-435E-864C-554C1DA4ED49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6187D07-D28B-435E-864C-554C1DA4ED49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6187D07-D28B-435E-864C-554C1DA4ED49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3981218F-67B5-4B82-BABA-FFCCA4955865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3981218F-67B5-4B82-BABA-FFCCA4955865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3981218F-67B5-4B82-BABA-FFCCA4955865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3981218F-67B5-4B82-BABA-FFCCA4955865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F301DF09-4D6E-4D10-91F1-FFE39A17AD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F301DF09-4D6E-4D10-91F1-FFE39A17AD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F301DF09-4D6E-4D10-91F1-FFE39A17AD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F301DF09-4D6E-4D10-91F1-FFE39A17AD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C702CD4-D180-4D4B-988F-2AD9A840A270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C702CD4-D180-4D4B-988F-2AD9A840A270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C702CD4-D180-4D4B-988F-2AD9A840A270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C702CD4-D180-4D4B-988F-2AD9A840A270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal

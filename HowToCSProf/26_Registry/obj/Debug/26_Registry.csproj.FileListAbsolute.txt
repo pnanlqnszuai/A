@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\26_Registry\bin\Debug\26_Registry.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\26_Registry\bin\Debug\26_Registry.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\26_Registry\bin\Debug\26_Registry.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\26_Registry\obj\Debug\26_Registry.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\26_Registry\obj\Debug\26_Registry.pdb

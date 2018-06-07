@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\bin\Debug\01_Collections.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\bin\Debug\01_Collections.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\bin\Debug\01_Collections.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\obj\Debug\01_Collections.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\obj\Debug\01_Collections.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\01_Collections\obj\Debug\01_Collections.pdb

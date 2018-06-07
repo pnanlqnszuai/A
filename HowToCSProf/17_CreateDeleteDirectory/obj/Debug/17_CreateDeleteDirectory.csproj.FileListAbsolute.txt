@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\17_CreateDeleteDirectory\bin\Debug\17_CreateDeleteDirectory.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\17_CreateDeleteDirectory\bin\Debug\17_CreateDeleteDirectory.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\17_CreateDeleteDirectory\bin\Debug\17_CreateDeleteDirectory.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\17_CreateDeleteDirectory\obj\Debug\17_CreateDeleteDirectory.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\17_CreateDeleteDirectory\obj\Debug\17_CreateDeleteDirectory.pdb

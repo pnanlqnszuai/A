@@ -1,0 +1,9 @@
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\Retry.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\Retry.pdb
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\PostSharp.Laos.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\PostSharp.Public.dll
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\PostSharp.Laos.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\bin\Release\PostSharp.Public.xml
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\obj\Release\Retry.exe
+C:\Users\Dmitri\Projects\Wild\PostSharpSamples\Retry\obj\Release\Retry.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\bin\Debug\09_Stack.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\bin\Debug\09_Stack.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\bin\Debug\09_Stack.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\obj\Debug\09_Stack.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\obj\Debug\09_Stack.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\09_Stack\obj\Debug\09_Stack.pdb

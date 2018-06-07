@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\bin\Debug\13_BitArrayBitVector.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\bin\Debug\13_BitArrayBitVector.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\bin\Debug\13_BitArrayBitVector.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\obj\Debug\13_BitArrayBitVector.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\obj\Debug\13_BitArrayBitVector.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\13_BitArrayBitVector\obj\Debug\13_BitArrayBitVector.pdb

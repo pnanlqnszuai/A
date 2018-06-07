@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\bin\Debug\07_ArrayList.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\bin\Debug\07_ArrayList.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\bin\Debug\07_ArrayList.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\obj\Debug\07_ArrayList.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\obj\Debug\07_ArrayList.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\07_ArrayList\obj\Debug\07_ArrayList.pdb

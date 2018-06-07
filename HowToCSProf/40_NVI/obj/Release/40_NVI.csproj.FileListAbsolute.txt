@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Release\40_NVI.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Release\40_NVI.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\bin\Release\40_NVI.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\obj\Release\40_NVI.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\obj\Release\40_NVI.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\40_NVI\obj\Release\40_NVI.pdb

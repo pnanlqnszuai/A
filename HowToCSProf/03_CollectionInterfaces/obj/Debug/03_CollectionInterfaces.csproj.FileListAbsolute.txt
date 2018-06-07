@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\bin\Debug\03_CollectionInterfaces.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\bin\Debug\03_CollectionInterfaces.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\bin\Debug\03_CollectionInterfaces.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\obj\Debug\03_CollectionInterfaces.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\obj\Debug\03_CollectionInterfaces.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\03_CollectionInterfaces\obj\Debug\03_CollectionInterfaces.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\33_CustomSerializationAttributes\bin\Debug\33_CustomSerializationAttributes.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\33_CustomSerializationAttributes\bin\Debug\33_CustomSerializationAttributes.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\33_CustomSerializationAttributes\bin\Debug\33_CustomSerializationAttributes.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\33_CustomSerializationAttributes\obj\Debug\33_CustomSerializationAttributes.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\33_CustomSerializationAttributes\obj\Debug\33_CustomSerializationAttributes.pdb

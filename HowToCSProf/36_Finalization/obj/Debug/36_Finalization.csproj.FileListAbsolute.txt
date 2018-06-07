@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\36_Finalization\bin\Debug\36_Finalization.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\36_Finalization\bin\Debug\36_Finalization.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\36_Finalization\bin\Debug\36_Finalization.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\36_Finalization\obj\Debug\36_Finalization.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\36_Finalization\obj\Debug\36_Finalization.pdb

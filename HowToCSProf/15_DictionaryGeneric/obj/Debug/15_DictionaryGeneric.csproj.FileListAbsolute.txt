@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\bin\Debug\15_DictionaryGeneric.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\bin\Debug\15_DictionaryGeneric.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\bin\Debug\15_DictionaryGeneric.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\obj\Debug\15_DictionaryGeneric.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\obj\Debug\15_DictionaryGeneric.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\15_DictionaryGeneric\obj\Debug\15_DictionaryGeneric.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\bin\Debug\08_Queue.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\bin\Debug\08_Queue.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\bin\Debug\08_Queue.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\obj\Debug\08_Queue.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\obj\Debug\08_Queue.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\08_Queue\obj\Debug\08_Queue.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\bin\Debug\23_Regex.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\bin\Debug\23_Regex.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\bin\Debug\23_Regex.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\obj\Debug\23_Regex.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\obj\Debug\23_Regex.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\23_Regex\obj\Debug\23_Regex.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\bin\Debug\21_IFormattable.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\bin\Debug\21_IFormattable.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\bin\Debug\21_IFormattable.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\obj\Debug\21_IFormattable.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\obj\Debug\21_IFormattable.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\21_IFormattable\obj\Debug\21_IFormattable.pdb

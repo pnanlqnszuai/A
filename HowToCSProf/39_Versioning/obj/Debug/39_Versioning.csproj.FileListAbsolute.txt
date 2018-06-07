@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\39_Versioning\bin\Debug\39_Versioning.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\39_Versioning\bin\Debug\39_Versioning.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\39_Versioning\bin\Debug\39_Versioning.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\39_Versioning\obj\Debug\39_Versioning.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\39_Versioning\obj\Debug\39_Versioning.pdb

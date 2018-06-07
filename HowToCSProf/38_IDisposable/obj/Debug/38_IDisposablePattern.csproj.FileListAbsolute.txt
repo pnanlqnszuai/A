@@ -1,0 +1,1 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\38_IDisposable\bin\Debug\38_IDisposable.exe.config

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities
+END
+Contact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities/Contact.cs
+END
+Entity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities/Entity.cs
+END
+Extensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities/Extensions.cs
+END
+Country.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities/Country.cs
+END
+Populate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/postsharpsamples/!svn/ver/6/trunk/ContactManager/Entities/Populate.cs
+END

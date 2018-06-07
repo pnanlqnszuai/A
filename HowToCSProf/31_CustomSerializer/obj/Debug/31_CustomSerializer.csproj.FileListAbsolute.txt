@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\bin\Debug\31_CustomSerializer.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\bin\Debug\31_CustomSerializer.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\bin\Debug\31_CustomSerializer.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\obj\Debug\31_CustomSerializer.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\obj\Debug\31_CustomSerializer.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\31_CustomSerializer\obj\Debug\31_CustomSerializer.pdb

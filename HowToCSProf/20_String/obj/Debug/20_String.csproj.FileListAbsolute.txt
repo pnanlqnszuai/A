@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\20_String\bin\Debug\20_String.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\20_String\bin\Debug\20_String.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\20_String\bin\Debug\20_String.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\20_String\obj\Debug\20_String.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\20_String\obj\Debug\20_String.pdb

@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\bin\Debug\19_Stream.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\bin\Debug\19_Stream.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\bin\Debug\19_Stream.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\obj\Debug\19_Stream.csprojResolveAssemblyReference.cache
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\obj\Debug\19_Stream.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\19_Stream\obj\Debug\19_Stream.pdb

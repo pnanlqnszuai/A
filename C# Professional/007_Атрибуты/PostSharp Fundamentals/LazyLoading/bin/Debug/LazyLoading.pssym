@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Evolution Source="#1=F:[LazyLoading]LazyLoading.Model.B::a" Target="#2=F:[LazyLoading]LazyLoading.Model.B::&lt;a&gt;" />
+  <Evolution Source="#2" Target="#3=P:[LazyLoading]LazyLoading.Model.B::a()" />
+  <Class Class="#4=T:[LazyLoading]LazyLoading.Aspects.LazyLoadAttribute">
+    <Instance Declaration="#2" Id="7cc83e128b8b17be">
+      <Target>
+        <JoinPoint Description="#5=Intercepted by advice OnGetValue" Semantic="Getter" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>

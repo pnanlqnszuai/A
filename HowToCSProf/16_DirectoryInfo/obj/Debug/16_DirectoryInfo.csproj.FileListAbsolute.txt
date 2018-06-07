@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\16_DirectoryInfo\bin\Debug\16_DirectoryInfo.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\16_DirectoryInfo\bin\Debug\16_DirectoryInfo.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\16_DirectoryInfo\bin\Debug\16_DirectoryInfo.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\16_DirectoryInfo\obj\Debug\16_DirectoryInfo.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\16_DirectoryInfo\obj\Debug\16_DirectoryInfo.pdb

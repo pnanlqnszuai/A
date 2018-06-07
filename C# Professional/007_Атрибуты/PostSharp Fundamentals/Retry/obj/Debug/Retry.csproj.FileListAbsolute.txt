@@ -1,0 +1,9 @@
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\bin\Debug\Retry.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\bin\Debug\Retry.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\obj\Debug\Retry.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\obj\Debug\Retry.exe
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\obj\Debug\Retry.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\bin\Debug\PostSharp.dll
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\bin\Debug\PostSharp.xml
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\bin\Debug\Retry.pssym
+C:\Cources\C# Professional\007 - Атрибуты\007_2 - PostSharp\111\Retry\obj\Debug\Retry.exe.postsharp

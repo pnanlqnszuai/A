@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\18_File\bin\Debug\18_File.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\18_File\bin\Debug\18_File.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\18_File\bin\Debug\18_File.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\18_File\obj\Debug\18_File.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\18_File\obj\Debug\18_File.pdb

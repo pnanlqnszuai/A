@@ -1,0 +1,5 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\14_NameValueCollection\bin\Debug\14_NameValueCollection.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\14_NameValueCollection\bin\Debug\14_NameValueCollection.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\14_NameValueCollection\bin\Debug\14_NameValueCollection.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\14_NameValueCollection\obj\Debug\14_NameValueCollection.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\14_NameValueCollection\obj\Debug\14_NameValueCollection.pdb

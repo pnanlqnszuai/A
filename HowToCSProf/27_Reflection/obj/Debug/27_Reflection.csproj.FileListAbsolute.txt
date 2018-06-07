@@ -1,0 +1,6 @@
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\bin\Debug\27_Reflection.exe.config
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\bin\Debug\27_Reflection.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\bin\Debug\27_Reflection.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\obj\Debug\27_Reflection.exe
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\obj\Debug\27_Reflection.pdb
+D:\Work\Work\Materials\How to C# Professional\HowToCSProf\27_Reflection\obj\Debug\27_Reflection.csprojResolveAssemblyReference.cache
